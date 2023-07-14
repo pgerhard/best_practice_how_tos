@@ -1,3 +1,3 @@
 Hello World
 
-[Some sub-page](/pages/sub-page)
+[Some sub-page](/pages/sub-page.md)
