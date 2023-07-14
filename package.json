@@ -1,0 +1,18 @@
+{
+  "name": "best_practice_how_tos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build" : "env NODE_ENV=production pnpx @11ty/eleventy",
+    "build:dev" : "pnpx @11ty/eleventy",
+    "start" : "pnpx @11ty/eleventy --serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
